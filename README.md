@@ -21,11 +21,6 @@
 
 
 <img align="left" alt="Levis44's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Levis44&show_icons=true&hide_border=true&theme=radical" />
-<br />
-<br />
-<br />
-
----
 
 <img align="left" alt="Levis44's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Levis44&layout=compact" />
 
