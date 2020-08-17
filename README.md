@@ -20,9 +20,11 @@
 
 
 <details>
+  <!--START_SECTION:activity-->
   <summary>:zap: Github Stats</summary>
 
   <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats-git-master.levis44.vercel.app/api?username=Levis44&show_icons=true&hide_border=true" />
+  <!--END_SECTION:activity-->
 
 </details>
 
