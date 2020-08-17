@@ -8,7 +8,7 @@
 - 👯 I’m looking to collaborate with other developers. 
 - ⚡ Fun fact: I love to play basketball 🏀
 
-
+---
 
 ### Connect with me:
 
