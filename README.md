@@ -18,16 +18,6 @@
 <br />
 <br />
 
-
-<details>
-  <!--START_SECTION:activity-->
-  <summary>:zap: Github Stats</summary>
-
-  <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats-git-master.levis44.vercel.app/api?username=Levis44&show_icons=true&hide_border=true" />
-  <!--END_SECTION:activity-->
-
-</details>
-
 [instagram]: https://www.instagram.com/_levis44/
 [linkedin]: https://www.linkedin.com/in/levi-ciarrocchi-1081251a6/
 
