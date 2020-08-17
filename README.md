@@ -8,8 +8,6 @@
 - 👯 I’m looking to collaborate with other developers. 
 - ⚡ Fun fact: I love to play basketball 🏀
 
----
-
 ### Connect with me:
 
 [<img align="left" alt="Levi | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
