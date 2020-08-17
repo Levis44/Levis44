@@ -20,7 +20,7 @@
 
 ---
 
-<img align="left" alt="Levis44's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Levis44&show_icons=true&hide_border=true?theme=dark" />
+<img align="left" alt="Levis44's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Levis44&show_icons=true&hide_border=true&?theme=dark" />
 
 [instagram]: https://www.instagram.com/_levis44/
 [linkedin]: https://www.linkedin.com/in/levi-ciarrocchi-1081251a6/
