@@ -1,4 +1,5 @@
 ### Hi there, I'm Levi - 👋
+[![Levi's github stats](https://github-readme-stats.vercel.app/api?username=Levis44)](https://github.com/anuraghazra/github-readme-stats)
 
 ## I'm a Studant, Athlet, Developer and I'm 17!
 
