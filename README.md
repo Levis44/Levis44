@@ -14,7 +14,7 @@
 [<img align="left" alt="Levi | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
  [<img align="left" alt="Levi | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 </br>
-</br>
+
 ---
 
  <img align="left" alt="Levis44's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Levis44&show_icons=true&hide_border=true&theme=radical" />
