@@ -64,22 +64,22 @@
  <img  src="https://github-readme-stats.vercel.app/api?username=Levis44&show_icons=true&hide_border=true&theme=radical" alt="Levis44's Github Stats"/>
 </p>
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Levis44&show_icons=true&hide_border=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <br/>
 
-<p align="right">
-  <a href="https://badges.pufler.dev">
-      <img src="https://badges.pufler.dev/visits/Levis44/Levis44" alt="Visitors badge" />
-   </a>
-</p>
+
 
 
 
 
 ## Visits
 
-
+<p align="right">
+  <a href="https://badges.pufler.dev">
+      <img src="https://badges.pufler.dev/visits/Levis44/Levis44" alt="Visitors badge" />
+   </a>
+</p>
 
 
 
