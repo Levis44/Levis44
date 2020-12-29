@@ -1,4 +1,4 @@
-# Hi there! :) - <img width="35" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" alt="Sunglasses emoji" />
+# Hi there! :) <img width="40" align="center" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" alt="Sunglasses emoji" />
 
 <img align="right" width="40%" src="https://media.giphy.com/media/U16eJ5dFcfiolA5u85/giphy.gif" alt="Code" />
 
