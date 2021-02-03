@@ -66,11 +66,6 @@
 <br/>
 
 
-<p align="right">
-  <a href="https://badges.pufler.dev">
-      <img src="https://badges.pufler.dev/visits/Levis44/Levis44" alt="Visitors badge" />
-   </a>
-</p>
 
 
 
