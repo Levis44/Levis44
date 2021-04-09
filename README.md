@@ -13,7 +13,7 @@
 - 🔭 I’m currently working to improve my programming experience!
 - 🌱 I’m learning about web development focused on Back-end. 
 - 🥅 2021 Goals: Learn, Work, Improve.
-- 👯 I’m looking to collaborate with other developers and get a Job! 
+- 👯 I’m looking to collaborate with other developers! 
 - 🚵 Fun fact: I love biking.
 - 🖥️ I'm focusing on study JS technologies 
 
