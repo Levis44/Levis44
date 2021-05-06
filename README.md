@@ -10,11 +10,10 @@
 
 ### I'm a Studant, Athlet, Developer and I'm 17!
 
-- 🔭 I’m currently working to improve my programming experience!
+- 👨🏻‍🚀 I’m currently working to improve my programming experience!
 - 🌱 I’m learning about web development focused on Back-end. 
-- 🥅 2021 Goals: Learn, Work, Improve.
+- 🥅 2021 Goals: Make some projects to learn more about back-end development.
 - 👯 I’m looking to collaborate with other developers! 
-- 🚵 Fun fact: I love biking.
 - 🖥️ I'm focusing on study JS technologies 
 
 
