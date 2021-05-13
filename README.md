@@ -8,7 +8,7 @@
   <b>Brazil</b>.
 </p>
 
-### I'm a Studant, Athlet, Developer and I'm 17!
+### I'm a Studant, Athlet, Developer and I'm 18!
 
 - 👨🏻‍🚀 I’m currently working to improve my programming experience!
 - 🌱 I’m learning about web development focused on Back-end. 
