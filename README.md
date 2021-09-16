@@ -4,8 +4,8 @@
 
 ### Welcome to my page!
 <p>
-  I'm Levi, Backend developer from <img width="16" src="https://www.flaticon.com/svg/static/icons/svg/197/197386.svg" alt="Brazil" />
-  <b>Brazil</b>.
+  I'm Levi, Backend developer from
+  <b>Brazil</b> 🇧🇷.
 </p>
 
 ### I'm a Studant, Developer and I'm 18!
