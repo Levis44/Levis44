@@ -20,7 +20,7 @@
 ### Where to find me:
 
 <a href="https://www.linkedin.com/in/levi-ciarrocchi-1081251a6/">
-  <code><img alt="My linkedin" width="28" src="https://cdn-icons.flaticon.com/png/512/3536/premium/3536505.png?token=exp=1634582295~hmac=68551c25b22d53de72f4d554c1e55365" /></code>
+  <code><img alt="My linkedin" width="28" src="https://cdn-icons.flaticon.com/png/512/3536/premium/3536505.png?token=exp=1636164141~hmac=1ec713e7d485d37d40fcacda8011f507" /></code>
 </a>
 
 <a href="mailto:levi.ciarrocchi@gmail.com">
