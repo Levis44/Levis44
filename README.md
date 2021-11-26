@@ -11,8 +11,8 @@
 ### I'm a Studant, Developer and I'm 18!
 
 - 👨🏻‍🚀 I’m currently working to improve my programming experience!
-- 🌱 I’m working with Back-end and Mobile Applications. 
-- 🥅 2021 Goals: Work hard and study more about software development.
+- 🌱 I’m working with Back-end. 
+- 🥅 2022 Goals: Work hard and study more about software development.
 - 👯 I’m looking to collaborate with other developers! 
 - 🖥️ I'm focusing on study JS technologies.
 
