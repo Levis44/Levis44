@@ -12,7 +12,7 @@
 
 - 👨🏻‍🚀 I’m currently working to improve my programming experience!
 - 🌱 I’m working with Back-end. 
-- 🥅 2022 Goals: Work hard and study more about software development.
+- 🥅 2023 Goals: Work hard and study more about software development.
 - 👯 I’m looking to collaborate with other developers! 
 - 🖥️ I'm focusing on study JS technologies.
 
