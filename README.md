@@ -1,21 +1,21 @@
-# Hi there! :) <img width="40" align="center" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" alt="Sunglasses emoji" />
+# Levi Ciarrocchi
 
-### Welcome to my page!
-<p>
-  I'm Levi, Software Engineer from
-  <b>Brazil</b> 🇧🇷.
-</p>
+### AI Software Engineer | Backend | LLM Systems | 🇧🇷
 
-### I'm a Studant, Developer and I'm 22!
+Building AI-driven financial tools at [Magie](https://magie.com.br) 🪄🎩, specializing in backend systems, LLM orchestration, and multi-agent architectures.
 
-- 👨🏻‍🚀 I’m currently working to improve my programming experience!
-- 🌱 I’m working with Back-end. 
-- 🦾 2025 Goals: Work hard and study more about software development and AI.
-- 👯 I’m looking to collaborate with other developers! 
-- 🖥️ I'm focusing on study AI technologies.
+Passionate about turning AI research into production systems — focusing on prompt engineering, autonomous agents, and scalable backend infrastructures.
 
+---
 
-### Where to find me:
+### 🚀 2025 Goals
+- Scale AI systems to production reliably. 
+- Contribute to open-source AI tools.
+- Deepen expertise in multi-agent architectures and financial AI models.
+
+---
+
+### 📫 Where to find me:
 
 <a href="https://www.linkedin.com/in/levicia/">
   <code><img alt="My linkedin" width="28" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/600px-LinkedIn_logo_initials.png" /></code>
@@ -24,4 +24,3 @@
 <a href="mailto:levi.ciarrocchi@gmail.com">
   <code><img alt="My e-mail" width="32" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" /></code>
 </a>
-<br>
