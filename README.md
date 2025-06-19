@@ -6,11 +6,11 @@
   <b>Brazil</b> 🇧🇷.
 </p>
 
-### I'm a Studant, Developer and I'm 21!
+### I'm a Studant, Developer and I'm 22!
 
 - 👨🏻‍🚀 I’m currently working to improve my programming experience!
 - 🌱 I’m working with Back-end. 
-- 🦾 2024 Goals: Work hard and study more about software development and AI.
+- 🦾 2025 Goals: Work hard and study more about software development and AI.
 - 👯 I’m looking to collaborate with other developers! 
 - 🖥️ I'm focusing on study AI technologies.
 
