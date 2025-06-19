@@ -17,7 +17,7 @@
 
 ### Where to find me:
 
-<a href="[https://www.linkedin.com/in/levi-ciarrocchi-1081251a6/](https://www.linkedin.com/in/levicia/)">
+<a href="https://www.linkedin.com/in/levicia/">
   <code><img alt="My linkedin" width="28" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/600px-LinkedIn_logo_initials.png" /></code>
 </a>
 
