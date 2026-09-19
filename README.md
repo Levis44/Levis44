@@ -4,8 +4,6 @@
 
 Passionate about turning AI research into production systems.
 
----
-
 ## 📫 Where to find me:
 
 <a href="https://www.linkedin.com/in/levicia/">
