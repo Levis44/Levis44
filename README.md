@@ -1,21 +1,12 @@
 # Levi Ciarrocchi
 
-### AI Software Engineer | Backend | LLM Systems | 🇧🇷
+## AI Engineer 🇧🇷
 
-Building AI-driven financial tools at [Magie](https://magie.com.br) 🪄🎩, specializing in backend systems, LLM orchestration, and multi-agent architectures.
-
-Passionate about turning AI research into production systems — focusing on prompt engineering, autonomous agents, and scalable backend infrastructures.
+Passionate about turning AI research into production systems.
 
 ---
 
-### 🚀 2025 Goals
-- Scale AI systems to production reliably. 
-- Contribute to open-source AI tools.
-- Deepen expertise in multi-agent architectures and financial AI models.
-
----
-
-### 📫 Where to find me:
+## 📫 Where to find me:
 
 <a href="https://www.linkedin.com/in/levicia/">
   <code><img alt="My linkedin" width="28" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/600px-LinkedIn_logo_initials.png" /></code>
