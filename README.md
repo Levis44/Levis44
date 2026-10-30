@@ -1,3 +1,4 @@
+<!-- last-active: 2026-10-29 -->
 # Levi Ciarrocchi
 
 ## AI Engineer 🇧🇷
